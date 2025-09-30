@@ -8,12 +8,14 @@ It was originally developed as part of the **Operating Systems 2023** course ass
 ## Features  
 
 - **Color menu toggle**  
-  - Show and hide a color selection menu using the key combination `<ALT> + C`.  
+  Show and hide a color selection menu using the key combination `<ALT> + C`.  
+
 - **Menu navigation**  
-  - Navigate through the menu using `w` (up) and `s` (down).  
+  Navigate through the menu using `w` (up) and `s` (down).  
+
 - **Color selection**  
-  - Choose a color combination for text and background.  
-  - Selected colors remain active for future terminal input until changed again.  
+  Choose a color combination for text and background.  
+  Selected colors remain active for future terminal input until changed again.  
 
 ---
 
@@ -25,8 +27,8 @@ It was originally developed as part of the **Operating Systems 2023** course ass
   - `PUR WHT` (purple on white)  
   - `RED AQU` (red on aqua)  
   - `WHT YEL` (white on yellow)  
-- Active selection is highlighted with black text on a green background.  
-- The last selected option is remembered for the next time the menu is opened.  
+- The last selected option is remembered and highlighted the next time the menu is opened.  
+
 
 ---
 
